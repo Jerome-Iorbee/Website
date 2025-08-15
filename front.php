@@ -1,3 +1,111 @@
+<style>
+body{
+    margin-left: 100px;
+}
+.home{
+    display: flex;
+    gap: 0.2%;
+}
+.home img{
+    width: 100%;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightblue;
+    padding: 10px;
+    width: 1130px;
+}
+.watch{
+    display: flex;
+    width: 100%;
+}
+.watch div{
+    width: 50%;
+}
+.watch img{
+    width: 50%;
+    height: 50%;
+}
+.watch p{
+    width: 50%;
+}
+.watch p small{
+    color: darkgrey;
+}
+.appliances{
+    display: flex;
+    gap: 0.2%;
+}
+.appliances img{
+    width: 100%;
+}
+.selling{
+    background-color: white;
+}
+.water{
+    display: flex;
+    width: 100%;
+}
+.water div{
+    width: 50%;
+}
+.water img{
+    width: 50%;
+    height: 50%;
+}
+.water p{
+    width: 50%;
+}
+.water p small{
+    color: darkgrey;
+}
+.mode{
+    display: flex;
+    width: 90%;
+    margin-left: 25px;
+}
+.mode div{
+    width: 90%;
+}
+.mode img{
+    width: 90%;
+    height: 75%;
+}
+.mode p{
+    width: 50%;
+}
+.nintendo{
+    display: flex;
+    width: 100%;
+}
+.nintendo div{
+    width: 50%;
+}
+.nintendo img{
+    width: 50%;
+    height: 50%;
+}
+.nintendo p{
+    width: 50%;
+}
+.nintendo p small{
+    color: darkgrey;
+}
+.kitchen{
+    display: flex;
+    gap: 0.4%;
+}
+.kitchen img{
+    width: 100%;
+}
+.ten{
+    display: flex;
+    gap: 0.4%;
+}
+.ten img{
+    width: 100%;
+}
+</style>
 <link rel="stylesheet" href="css/jumia.css">
 <body style="background-color: beige">
     <div class="home">
