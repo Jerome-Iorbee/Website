@@ -1,5 +1,4 @@
-
-    <link rel="stylesheet" href="css/navflex.css">
+<link rel="stylesheet" href="css/navflex.css">
 </head>
 <body>
     <nav>
